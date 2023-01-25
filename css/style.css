@@ -30,7 +30,7 @@ img {
 }
 
 div {
-    height: 150px;
+    min-height: 125px;
     padding: 20px 20px 20px 20px;
     border: solid;
     border-color: #ffffff;
