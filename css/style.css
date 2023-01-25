@@ -30,7 +30,7 @@ img {
 }
 
 div {
-    height: 125px;
+    height: 130px;
     padding: 20px 20px 20px 20px;
     border: solid;
     border-color: #ffffff;
@@ -90,6 +90,7 @@ div {
 footer {
     border: solid;
     border-color: #ffffff;
+    border-width: 5px 5px 5px 5px;
     background: rgb(0,0,0);
     background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,255,1) 25%, rgba(0,102,255,1) 70%, rgba(0,0,0,1) 100%);
 }
